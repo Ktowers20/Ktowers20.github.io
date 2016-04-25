@@ -2,6 +2,8 @@ body {
    background-color:#FF1493;
    color: #070719;
    font-family: broadway;
+   font-size: 200%
+
    
   
 }
@@ -12,21 +14,20 @@ body {
 	margin: 100 auto;
 
 }
-.circular-image {
+
+.image-circle {
   border-radius:  50%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 img {
-	margin-left: 0%;
-	margin-right: 100 auto;
+	margin-left: 100%;
+	margin-right: 200 auto;
 	margin-top: 100px;
 	width: 70%;
 	height: 400px;
 
-
-
-.img-circle {
-    border-radius: 50%;
 }
 
 header {
@@ -38,8 +39,8 @@ header {
 header h1 {
     text-align-:right;
     font-size: 350%;
-    margin-left: 20%;
+    margin-right: 100%;
+    font-size: 300%;
 
 
 }
-  
