@@ -1,16 +1,22 @@
 body {
-   background-color:#000000 ;
+   background-color:#FF00FF ;
    color: #070719;
    font-family: broadway;
+}
    
-  
+   h1 {
+    text-align-:left;
+    font-size: 350%;
+    margin-left: 300px;
+    font-size: 300%;
+    margin-top: 90px;
    
-  
+   }
 footer {
 	position: absolute;
 	bottom: 0;
 	height: 30px;
 	width: 100%;
-	color: #FE2EC8;
+	color: #FF1493;
 
 }
