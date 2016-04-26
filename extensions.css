@@ -21,6 +21,11 @@ body {
    
    }
 
+p{
+  border:10px solid black;
+  border-style: double;
+}
+
     
 
 footer {
