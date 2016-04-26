@@ -14,13 +14,13 @@ body {
 
 .image-circle {
   border-radius:  50%;
-  margin-left: 500px;
+  margin-left: 400px;
   margin-right: auto;
   margin-top:90px;
 }
 
 img {
-	margin-left: 200%;
+	margin-left: 150%;
 	margin-right: 400%;
 	margin-top: 100px;
 	width: 40%;
