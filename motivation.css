@@ -2,10 +2,11 @@ body {
    background-color:#FF00FF ;
    color: #070719;
    font-family: broadway;
-}
+ }
+
    
    h1 {
-    text-align-:left;
+    text-align:left;
     font-size: 350%;
     margin-left: 600px;
     font-size: 400%;
@@ -14,27 +15,26 @@ body {
    }
    .container {
   width: 90%;
-  margin: 100 auto;
-
 }
+
   .image-circle {
   border-radius:  85%;
-  margin-left: 500px;
+  margin-left: 510px;
   margin-right: auto;
   margin-top:40px;
+ }
 
+ li{
+	display: inline;
+	text-align: center;
 }
 
+nav{
+	font-size: 25pt;
+}
 
-   }
-
-footer {
-	position: absolute;
-	bottom: 0;
-	height: 30px;
-	width: 100%;
+footer{
 	color: #000000;
-	font-size: 50%
-	text-align:center;
-
+	font-size: 13pt;
+	text-align: right;
 }

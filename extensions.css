@@ -29,7 +29,10 @@ p{
   border-style: double;
 }
 
-    
+li{
+  display: inline;
+  text-align: center;
+}    
 
 footer {
   position: absolute;

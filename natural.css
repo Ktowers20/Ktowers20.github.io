@@ -24,20 +24,28 @@ body {
 .circle {
 width:650px;
 height:350px;
-border-radius:60%;
+border-radius:80%;
 font-size:17px;
 color:#fff;
-line-height:50px;
+line-height: 50px;
 text-align:center;
-margin-top: 30px;
+margin-top: 33px;
 background:#000;
 margin-right: auto;
-margin-left: 500px;
+margin-left: auto;
 
 }
 
+li{
+	display: inline;
+	text-align: center;
+}
+
+ul{
+	style= list-style-type:none
+}
+
 footer {
-	position: absolute;
 	bottom: 0;
 	height: 30px;
 	width: 100%;
