@@ -2,7 +2,7 @@ body {
    background-color:#FF1493;
    color: #070719;
    font-family: broadway;
-   font-size: 200%
+   font-size: 185%;
 
   }
 
@@ -36,9 +36,9 @@ header {
 }
 
 h1 {
-    text-align-:right;
+    text-align-:center;
     font-size: 350%;
-  	margin-left: 500px;
+  	margin-left: 400px;
     font-size: 300%;
     margin-top: 100px;
 
