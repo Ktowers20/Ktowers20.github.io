@@ -36,3 +36,11 @@ margin-left: 500px;
 
 }
 
+footer {
+	position: absolute;
+	bottom: 0;
+	height: 30px;
+	width: 100%;
+	color: #FE2EC8;
+
+}
