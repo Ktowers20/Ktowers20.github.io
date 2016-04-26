@@ -16,7 +16,7 @@ body {
   border-radius:  50%;
   margin-left: 500px;
   margin-right: auto;
-  margin-top:100px;
+  margin-top:90px;
 }
 
 img {
@@ -38,16 +38,17 @@ header {
 h1 {
     text-align-:center;
     font-size: 350%;
-  	margin-left: 00px;
+  	margin-left: 200px;
     font-size: 300%;
-    margin-top: 100px;
+    margin-top: 80px;
+    position: relative;
 
 
 }
 
 footer {
 	position: absolute;
-	top:200%;
+	top:100%;
 	height: 30px;
 	width: 100%;
 	color: #000000;
