@@ -1,5 +1,5 @@
 body {
-   background-color:#EE82EE;
+   background-color:#FF1493;
    color: #070719;
    font-family: broadway;
    font-size: 200%
@@ -7,19 +7,18 @@ body {
 }
 
 .container {
-	width: 90%;
-	margin: 100 auto;
+  width: 90%;
+  margin: 100 auto;
 
 }
 
    h1 {
     text-align-:right;
     font-size: 350%;
-  	margin-left: 400px;
+    margin-left: 400px;
     font-size: 300%;
     margin-top: 90px;
 
-}
   
 .circle1 {
 width:150px;
