@@ -3,8 +3,8 @@ body {
    color: #070719;
    font-family: broadway;
    font-size: 185%;
+}
 
-  }
 
 .container {
 	width: 90%;
@@ -14,36 +14,24 @@ body {
 
 .image-circle {
   border-radius:  50%;
-  margin-left: 400px;
+  margin-left: 500px;
   margin-right: auto;
   margin-top:90px;
 }
 
 img {
-	margin-left: 150%;
-	margin-right: 400%;
+	margin-left: 200%;
+	margin-right: 450%;
 	margin-top: 100px;
 	width: 40%;
 	height: 300px;
 
 }
 
-header {
-	text-align: center;
-	color: #FE2EC8;
-	
-   
-}
-
 h1 {
-    text-align-:center;
     font-size: 350%;
-  	margin-left: 480px;
-    font-size: 300%;
     margin-top: 80px;
-    position: relative;
-
-
+    text-align: center;
 }
 
 footer {
