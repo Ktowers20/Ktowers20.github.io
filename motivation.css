@@ -2,7 +2,7 @@ body {
    background-color:#FF00FF ;
    color: #070719;
    font-family: broadway;
-   font-size: 50%;
+   font-size: 20%;
  }
 
    
@@ -15,7 +15,7 @@ body {
    }
    .container {
   width: 90%;
-  font-size: 50pt;
+  font-size: 15pt;
 }
 
   .image-circle {
