@@ -2,14 +2,14 @@ body {
    background-color:#FF00FF ;
    color: #070719;
    font-family: broadway;
-   font-size: 20%;
+   font-size: 200%;
  }
 
-   
    h1 {
-    text-align:center;
-    margin-right: 500px;
-    font-size: 400%;
+    text-align-:left;
+    font-size: 350%;
+    margin-left: 300px;
+    font-size: 300%;
     margin-top: 90px;
    
    }
