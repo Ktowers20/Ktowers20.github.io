@@ -8,19 +8,20 @@ body {
    h1 {
     text-align:left;
     font-size: 350%;
-    margin-left: 600px;
+    margin-left: 400px;
     font-size: 400%;
     margin-top: 90px;
    
    }
    .container {
   width: 90%;
+  font-size: 75%;
 }
 
   .image-circle {
   border-radius:  85%;
   margin-left: 400px;
-  margin-right: auto;
+  margin-right: 200px;
   margin-top:40px;
  }
 
