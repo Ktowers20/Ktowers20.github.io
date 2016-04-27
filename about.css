@@ -42,6 +42,7 @@ li{
 
 footer {
 	position: absolute;
+	margin-top: 200%;
 	top:125%;
 	height: 30px;
 	width: 100%;
