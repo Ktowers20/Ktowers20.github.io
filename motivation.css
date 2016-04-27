@@ -2,20 +2,20 @@ body {
    background-color:#FF00FF ;
    color: #070719;
    font-family: broadway;
+   font-size: 200%;
  }
 
    
    h1 {
     text-align:center;
-    font-size: 350%;
-    margin-left: 400px;
+    margin-right: 500px;
     font-size: 400%;
     margin-top: 90px;
    
    }
    .container {
   width: 90%;
-  font-size: 75%;
+  font-size: 200pt;
 }
 
   .image-circle {
@@ -36,6 +36,6 @@ nav{
 
 footer{
 	color: #000000;
-	font-size: 13pt;
+	font-size: 20pt;
 	text-align: center;
 }

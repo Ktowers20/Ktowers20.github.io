@@ -32,8 +32,7 @@ li{
 }    
 
 footer {
-  position: absolute;
-  top:125%;
+  bottom: 0;
   height: 30px;
   width: 100%;
   color: #000000;
