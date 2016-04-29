@@ -29,7 +29,11 @@ p{
 li{
   display: inline;
   text-align: center;
-}    
+} 
+
+nav{
+  text-align: center;
+}   
 
 footer {
   position: absolute;
