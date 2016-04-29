@@ -20,9 +20,7 @@ body {
 
   .image-circle {
   border-radius:  85%;
-  margin-left: 250px;
-  margin-right: 800px;
-  margin-top:40px;
+  margin:0 0 0 30%;
  }
 
  li{
@@ -36,6 +34,6 @@ nav{
 
 footer{
 	color: #000000;
-	font-size: 20pt;
+	font-size: 15pt;
 	text-align: center;
 }
