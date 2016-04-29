@@ -26,10 +26,12 @@ body {
  li{
 	display: inline;
 	text-align: center;
+
 }
 
 nav{
 	font-size: 25pt;
+	text-align: center;
 }
 
 footer{
