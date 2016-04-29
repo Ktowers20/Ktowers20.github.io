@@ -21,7 +21,7 @@ body {
 
 img {
 	margin-left: 400%;
-	margin-right: 550%;
+	margin-right: 560%;
 	margin-top: 50px;
 	width: 40%;
 	height: 300px;
@@ -42,12 +42,9 @@ li{
 
 footer {
 	position: absolute;
-<<<<<<< HEAD
 	top:115%;
-=======
-	margin-top: 70%;
+    margin-top: 70%;
 	top:125%;
->>>>>>> origin/master
 	height: 30px;
 	width: 100%;
 	color: #000000;
