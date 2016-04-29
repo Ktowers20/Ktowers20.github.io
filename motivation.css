@@ -1,26 +1,27 @@
 body {
-   background-color:#FF00FF ;
+   background-color:#FFFFFF ;
    color: #070719;
    font-family: broadway;
+   font-size: 200%;
  }
 
-   
    h1 {
-    text-align:left;
+    text-align-:center;
     font-size: 350%;
-    margin-left: 600px;
-    font-size: 400%;
+    margin-left: 200px;
+    font-size: 300%;
     margin-top: 90px;
    
    }
    .container {
   width: 90%;
+  font-size: 15pt;
 }
 
   .image-circle {
   border-radius:  85%;
-  margin-left: 510px;
-  margin-right: auto;
+  margin-left: 150px;
+  margin-right: 200px;
   margin-top:40px;
  }
 
@@ -35,6 +36,6 @@ nav{
 
 footer{
 	color: #000000;
-	font-size: 13pt;
-	text-align: right;
+	font-size: 20pt;
+	text-align: center;
 }
