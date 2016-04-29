@@ -45,6 +45,9 @@ ul{
 	style= list-style-type:none
 }
 
+nav{
+	text-align: center;
+}
 footer {
 	bottom: 0;
 	height: 30px;
