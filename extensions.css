@@ -9,11 +9,12 @@ body {
 .container {
   width: 90%;
   margin: 100 auto;
+  text-align: center;
 
 }
 
  h1 {
-    text-align-:left;
+    text-align:center;
     font-size: 350%;
     margin-left: 200px;
     font-size: 300%;
@@ -37,7 +38,7 @@ nav{
 
 footer {
   position: absolute;
-  margin-top: 80%;
+  margin-top: 40%;
   top:125%;
   height: 30px;
   width: 100%;
