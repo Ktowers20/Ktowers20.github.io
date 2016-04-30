@@ -2,7 +2,7 @@ body {
    background-color:#FF1493;
    color: #070719;
    font-family: broadway;
-   font-size: 185%;
+   font-size: 175%;
 }
 
 
@@ -45,14 +45,10 @@ nav{
 
 footer {
 	position: absolute;
-<<<<<<< HEAD
 	margin-top: 70%;
 	top:150%;
-=======
-	top:115%;
     margin-top: 50%;
 	top:100%;
->>>>>>> origin/master
 	height: 30px;
 	width: 100%;
 	color: #000000;
