@@ -14,14 +14,14 @@ body {
 
 .image-circle {
   border-radius:  80%;
-  margin-left: 300px;
+  margin-left: 500px;
   margin-top:90px;
 
 }
 
 img {
 	margin-left: 400%;
-	margin-right: 550%;
+	margin-right: 560%;
 	margin-top: 50px;
 	width: 40%;
 	height: 300px;
@@ -39,11 +39,20 @@ li{
 	text-align: center;
 }
 
+nav{
+	text-align: center;
+}
 
 footer {
 	position: absolute;
+<<<<<<< HEAD
 	margin-top: 70%;
 	top:150%;
+=======
+	top:115%;
+    margin-top: 50%;
+	top:100%;
+>>>>>>> origin/master
 	height: 30px;
 	width: 100%;
 	color: #000000;
